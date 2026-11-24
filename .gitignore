@@ -1,0 +1,33 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# PHP
+*.php~
+
+# Misc
+.env
+vendor/
+node_modules/
+
+# Do not ignore source files
+!index.html
+!apply.html
+!about.html
+!contact.html
+!success.php
+!style.css
+!script.js
+!README.md
